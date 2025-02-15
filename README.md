@@ -75,10 +75,10 @@ python Fall_Detection.py
 ```
 
 #### **Sample Output:**
-![Fall Detection](C:\my_projects\Intelligent-Surveillance-System\screenshots\Crash_Detection.jpg)
+![Fall Detection](https://github.com/Tejas-Keskar/Intelligent-Surveillance-System/blob/main/screenshots/Fall_Detection.jpg)
 
 #### **Email Alert:**
-![Fall Detection Email](screenshots\Email_Fall_Detection.jpg)
+![Fall Detection Email](https://github.com/Tejas-Keskar/Intelligent-Surveillance-System/blob/main/screenshots/Email_Fall_Detection.jpg)
 
 ---
 
@@ -95,7 +95,7 @@ python Social_Distance.py
 ```
 
 #### **Sample Output:**
-![Social Distancing](screenshots\Social_Distancing.jpg)
+![Social Distancing](https://github.com/Tejas-Keskar/Intelligent-Surveillance-System/blob/main/screenshots/Social_Distancing.jpg)
 
 ---
 
@@ -113,10 +113,10 @@ python Vehicle_Crash.py
 ```
 
 #### **Sample Output:**
-![Crash Detection](screenshots\Crash_Detection.jpg)
+![Crash Detection](https://github.com/Tejas-Keskar/Intelligent-Surveillance-System/blob/main/screenshots/Crash_Detection.jpg)
 
 #### **Email Alert:**
-![Crash Detection Email](screenshots\Email_Crash_Detection.jpg)
+![Crash Detection Email](https://github.com/Tejas-Keskar/Intelligent-Surveillance-System/blob/main/screenshots/Email_Crash_Detection.jpg)
 
 ---
 
@@ -130,7 +130,7 @@ python app.py
 ```
 
 ### **Website**
-![ISS Webiste](screenshots\ISS_Website.jpg)
+![ISS Webiste](https://github.com/Tejas-Keskar/Intelligent-Surveillance-System/blob/main/screenshots/ISS_Website.jpg)
 
 ---
 

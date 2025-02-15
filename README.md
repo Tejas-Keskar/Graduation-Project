@@ -30,7 +30,7 @@ This project performs **fall detection, vehicle crash detection, and social dist
 - **Darknet**: YOLO's neural network framework
 
 ### **Installation Guide:**
-Follow the **two-part YouTube tutorial** by [Augmented Startups](https://www.youtube.com/channel/UC-tOFuOex0xG_RM8cVtyh9g).
+Follow the **two-part YouTube tutorial** by [Augmented Startups](https://youtu.be/5pYh1rFnNZs?si=9vliNRIAcFzS3ldy).
 
 > ⚠️ **Note:**
 > - Use the **May 2020 - June 2020 version** of Darknet to avoid compatibility issues.
@@ -75,7 +75,7 @@ python Fall_Detection.py
 ```
 
 #### **Sample Output:**
-![Fall Detection](screenshots\Fall_Detection.jpg)
+![Fall Detection](C:\my_projects\Intelligent-Surveillance-System\screenshots\Crash_Detection.jpg)
 
 #### **Email Alert:**
 ![Fall Detection Email](screenshots\Email_Fall_Detection.jpg)
